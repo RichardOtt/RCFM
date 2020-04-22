@@ -4,6 +4,8 @@ import numpy as np
 # Variables needed for other functions
 c = 3 * (10**5) # km/s
 
+#I'm a comment
+
 # VlumSquared - Given Vgas, Vdisk, and Vbulge this will return VSquared
 # Params
 #  Vgas
