@@ -1,3 +1,6 @@
+This code is being hijacked for demostration purposes.
+Suckers.
+
 # To download this project
 
 Go to where you'd like to clone the respoditory (a good place is documents/github) and type:
